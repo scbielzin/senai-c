@@ -1,2 +1,2 @@
 # senai-c
-Linguagem C
+Aula 10=05 - Função simples
